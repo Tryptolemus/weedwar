@@ -38,7 +38,7 @@ export const priceReducers = {
         eventPriceRange.one_drop_1[1]
       );
       updateState.events = updateState.events.concat(
-        "Holy shit! You found a time machine to the 80s. Coke is cheap!"
+        "Holy shit! You found a time machine to the 80s. Weed is cheap!"
       );
     }
     if (1 === randomInteger(1, 30)) {
@@ -47,7 +47,7 @@ export const priceReducers = {
         eventPriceRange.one_increase_2[1]
       );
       updateState.events = updateState.events.concat(
-        "Cops made a huge cocaine bust! Prices are rising!!!"
+        "Cops made a huge weed bust! Prices are rising!!!"
       );
     }
     if (1 === randomInteger(1, 35)) {
@@ -56,7 +56,7 @@ export const priceReducers = {
         eventPriceRange.one_increase_1[1]
       );
       updateState.events = updateState.events.concat(
-        "Some pure cocaine just hit the market. Prices are skyrocketing!!"
+        "Product Recall just hit the market. Prices are skyrocketing!!"
       );
     }
     //
@@ -68,7 +68,7 @@ export const priceReducers = {
         eventPriceRange.two_drop_1[1]
       );
       updateState.events = updateState.events.concat(
-        "Somebody found a reliable method for making molly. It's super cheap!"
+        "Somebody found a reliable smuggling weed. It's super cheap!"
       );
     }
     if (1 === randomInteger(1, 25)) {
@@ -77,7 +77,7 @@ export const priceReducers = {
         eventPriceRange.two_increase_1[1]
       );
       updateState.events = updateState.events.concat(
-        "Everyone wants to rave! Molly prices are skyrocketing!!"
+        "Everyone wants to smoke! Weed prices are skyrocketing!!"
       );
     }
     //
@@ -89,7 +89,7 @@ export const priceReducers = {
         eventPriceRange.three_drop_1[1]
       );
       updateState.events = updateState.events.concat(
-        "The Grateful Dead are in town! The market is flooded with LSD!!"
+        "The Grateful Dead are in town! The market is flooded!!"
       );
     }
     //
@@ -101,7 +101,7 @@ export const priceReducers = {
         eventPriceRange.four_drop_1[1]
       );
       updateState.events = updateState.events.concat(
-        "Shroomfest time!! Mushrooms are basically being handed out!"
+        "Cannabis Cup time!! Weed is basically being handed out!"
       );
     }
     if (1 === randomInteger(1, 25)) {
@@ -110,7 +110,7 @@ export const priceReducers = {
         eventPriceRange.four_drop_2[1]
       );
       updateState.events = updateState.events.concat(
-        "Shrooms are legal!! They're being sold at bodega's everywhere!"
+        "Weed is legal!! They're being sold at bodega's everywhere!"
       );
     }
     if (1 === randomInteger(1, 20)) {
@@ -119,7 +119,7 @@ export const priceReducers = {
         eventPriceRange.four_increase_1[1]
       );
       updateState.events = updateState.events.concat(
-        "A new shroom chocolate hit the market!! Everyone is buying!"
+        "Trypto just harvested!! Everyone is buying!"
       );
     }
     //
@@ -131,7 +131,7 @@ export const priceReducers = {
         eventPriceRange.five_drop_1[1]
       );
       updateState.events = updateState.events.concat(
-        "The pharmacy has adderall! Prices are dropping!"
+        "The pharmacy has weed! Prices are dropping!"
       );
     }
     if (1 === randomInteger(1, 20)) {
@@ -140,7 +140,7 @@ export const priceReducers = {
         eventPriceRange.five_increase_1[1]
       );
       updateState.events = updateState.events.concat(
-        "There's a national shortage! Adderall prices are skyrocketing!!"
+        "There's a national shortage! Weed prices are skyrocketing!!"
       );
     }
     //
