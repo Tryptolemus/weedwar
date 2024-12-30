@@ -1,8 +1,8 @@
 export enum Areas {
-  Bronx = "New York City",
-  Queens = "Grass Valley, CA",
+  Bronx = "Elysium- MetaFlora HQ",
+  Queens = "NYC",
   CentralPark = "Canada",
-  Manhattan = "Thai Land",
+  Manhattan = "ThaiLand",
   ConeyIsland = "Romania",
   Brooklyn = "Berlin",
 }
