@@ -54,8 +54,8 @@ export default function Start() {
 
   return (
     <StartContainer>
-      <TitleContainer>drug wars</TitleContainer>
-      <Button onClick={() => newGame()}>New Game</Button>
+      <TitleContainer>MetaFlora Weed Wars</TitleContainer>
+      <Button onClick={() => newGame()}>Burn $Gala</Button>
       {playerDaysEnd < 30 && (
         <Button onClick={() => contnueGame()}>Continue Game</Button>
       )}
