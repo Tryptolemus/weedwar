@@ -1,19 +1,19 @@
 export enum Areas {
-  Bronx = "bronx",
-  Queens = "queens",
-  CentralPark = "central park",
-  Manhattan = "manhattan",
-  ConeyIsland = "coney island",
-  Brooklyn = "brooklyn",
+  Bronx = "New York City",
+  Queens = "Grass Valley, CA",
+  CentralPark = "Canada",
+  Manhattan = "Thai Land",
+  ConeyIsland = "Romania",
+  Brooklyn = "Berlin",
 }
 
 export enum Drugs {
-  One = "cocaine",
-  Two = "molly",
-  Three = "lsd",
-  Four = "shrooms",
-  Five = "adderall",
-  Six = "weed",
+  One = "Sour Diesel",
+  Two = "Chem Dawg",
+  Three = "Kush",
+  Four = "Haze",
+  Five = "Blue Dream",
+  Six = "OG",
 }
 
 export type DrugsMap = {
