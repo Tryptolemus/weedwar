@@ -18,13 +18,13 @@ export default function Instructions() {
       <div>
         Burn 100 Gala To Begin the Game.  Climb the Leaderboard by January 30th to 
         win a Connoisseur Node By MetaFlora
-        <br></br>
+        <div></div>
         You are a drug dealer engaged in arbitrage! This is a game of buying,
         selling, and fighting. The object of the game is to pay off your debt to
         the loan shark. Then, make as much money as you can in a 30 day period.
         It takes one day to travel to a new location. If you deal too heavily in
         weed, you might run into the police!! Buy guns to protect yourself from
-        muggers and police dogs. Your main stash will be in Grass Valley.
+        muggers and police dogs. Your main stash will be at Elysium - MetaFlora's HQ.
         (It's a nice neighborhood) Put money in the bank to earn interest, but
         be careful, the loan shark also collects interest.
       </div>
